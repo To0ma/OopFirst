@@ -1,0 +1,8 @@
+C:\Users\THINKPAD\Desktop\first\HW\HW\bin\Debug\HW.exe.config
+C:\Users\THINKPAD\Desktop\first\HW\HW\bin\Debug\HW.exe
+C:\Users\THINKPAD\Desktop\first\HW\HW\bin\Debug\HW.pdb
+C:\Users\THINKPAD\Desktop\first\HW\HW\obj\Debug\HW.csproj.AssemblyReference.cache
+C:\Users\THINKPAD\Desktop\first\HW\HW\obj\Debug\HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\THINKPAD\Desktop\first\HW\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD\Desktop\first\HW\HW\obj\Debug\HW.exe
+C:\Users\THINKPAD\Desktop\first\HW\HW\obj\Debug\HW.pdb
